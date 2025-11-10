@@ -38,6 +38,10 @@
 
 ### 🌐 Connect with Me
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:okeleyeayomide08@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://web.facebook.com/profile.php?id=61578254949793)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/okeleyeayomide08/)
+[![X](https://img.shields.io/badge/X-1DA1F2?logo=twitter&logoColor=white)](https://x.com/okeleye08)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white)](https://www.tiktok.com/@okeleyeayomide08?lang=en)
 
 ---
 
