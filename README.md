@@ -30,9 +30,10 @@
 ---
 
 ### 📊 My GitHub Stats
-![Ayomide's GitHub stats](https://github-readme-stats.vercel.app/api?username=okeleyeayomide08&show_icons=true&theme=tokyonight&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=okeleyeayomide08&layout=compact&theme=tokyonight&hide_border=false&langs_count=6)
+![Ayomide's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=okeleyeayomide08&show_icons=true&theme=tokyonight&hide_border=false)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=okeleyeayomide08&layout=compact&theme=tokyonight&hide_border=false&langs_count=6)
+
 
 ---
 
